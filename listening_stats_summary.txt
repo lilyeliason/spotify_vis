@@ -1,0 +1,335 @@
+
+============================================================
+Overall Listening Summary: (All Time)
+Total songs played: 164,486
+Total listening time: 339,522 minutes (5,659 hours)
+
+Top 10 Artists (by Minutes Listened):
+  • Taylor Swift: 23,170 min (386.2 hrs) | 11,784 plays
+  • Lana Del Rey: 17,827 min (297.1 hrs) | 8,314 plays
+  • Lorde: 13,293 min (221.6 hrs) | 5,772 plays
+  • Arcade Fire: 9,260 min (154.3 hrs) | 3,412 plays
+  • Phoebe Bridgers: 6,994 min (116.6 hrs) | 2,928 plays
+  • Radiohead: 6,485 min (108.1 hrs) | 2,315 plays
+  • David Bowie: 5,848 min (97.5 hrs) | 2,453 plays
+  • Sufjan Stevens: 5,036 min (83.9 hrs) | 2,157 plays
+  • Adrianne Lenker: 4,782 min (79.7 hrs) | 2,012 plays
+  • Billie Eilish: 3,465 min (57.8 hrs) | 1,913 plays
+
+Top 10 Songs (by Minutes Listened):
+  • 'California' by Lana Del Rey: 996 min (16.6 hrs) | 444 plays
+  • 'I Know The End' by Phoebe Bridgers: 864 min (14.4 hrs) | 220 plays
+  • 'Hard Feelings/Loveless' by Lorde: 771 min (12.8 hrs) | 219 plays
+  • 'Ribs' by Lorde: 770 min (12.8 hrs) | 357 plays
+  • 'Garden Song' by Phoebe Bridgers: 764 min (12.7 hrs) | 348 plays
+  • 'ingydar' by Adrianne Lenker: 760 min (12.7 hrs) | 294 plays
+  • 'Cinnamon Girl' by Lana Del Rey: 742 min (12.4 hrs) | 285 plays
+  • 'John My Beloved' by Sufjan Stevens: 728 min (12.1 hrs) | 204 plays
+  • 'Rebel Rebel - 2016 Remaster' by David Bowie: 723 min (12.1 hrs) | 270 plays
+  • 'Diamond Dogs - 2016 Remaster' by David Bowie: 719 min (12.0 hrs) | 177 plays
+
+Top 10 Albums (by Minutes Listened):
+  • 'Norman Fucking Rockwell!' by Lana Del Rey: 5,259 min (87.7 hrs) | 2,261 plays
+  • 'Punisher' by Phoebe Bridgers: 4,725 min (78.8 hrs) | 2,000 plays
+  • 'Melodrama' by Lorde: 4,341 min (72.3 hrs) | 1,878 plays
+  • 'evermore' by Taylor Swift: 4,172 min (69.5 hrs) | 1,744 plays
+  • 'songs' by Adrianne Lenker: 3,369 min (56.2 hrs) | 1,378 plays
+  • 'Midnights' by Taylor Swift: 3,336 min (55.6 hrs) | 1,719 plays
+  • 'Carrie & Lowell' by Sufjan Stevens: 3,254 min (54.2 hrs) | 1,229 plays
+  • 'Pure Heroine' by Lorde: 3,113 min (51.9 hrs) | 1,501 plays
+  • 'Sound & Color' by Alabama Shakes: 3,005 min (50.1 hrs) | 1,215 plays
+  • 'Reflektor (Deluxe)' by Arcade Fire: 3,004 min (50.1 hrs) | 862 plays
+
+
+============================================================
+Yearly Listening Summary: 2025
+Total songs played: 21,213
+Total listening time: 49,239 minutes (821 hours)
+
+Top 10 Artists (by Minutes Listened):
+  • Lorde: 3,829 min (63.8 hrs) | 1,547 plays
+  • Radiohead: 3,429 min (57.1 hrs) | 1,152 plays
+  • Arcade Fire: 3,032 min (50.5 hrs) | 905 plays
+  • Tate McRae: 1,476 min (24.6 hrs) | 780 plays
+  • LCD Soundsystem: 1,393 min (23.2 hrs) | 350 plays
+  • David Bowie: 1,380 min (23.0 hrs) | 526 plays
+  • Lana Del Rey: 1,337 min (22.3 hrs) | 460 plays
+  • The National: 1,271 min (21.2 hrs) | 437 plays
+  • The Marías: 1,227 min (20.5 hrs) | 475 plays
+  • Charli xcx: 1,119 min (18.6 hrs) | 663 plays
+
+Top 10 Songs (by Minutes Listened):
+  • 'What Was That' by Lorde: 544 min (9.1 hrs) | 218 plays
+  • 'All My Friends' by LCD Soundsystem: 481 min (8.0 hrs) | 87 plays
+  • 'Heavy' by The Marías: 387 min (6.5 hrs) | 113 plays
+  • 'Neighborhood #3 (Power Out)' by Arcade Fire: 319 min (5.3 hrs) | 80 plays
+  • 'Man Of The Year' by Lorde: 297 min (5.0 hrs) | 128 plays
+  • 'party 4 u' by Charli xcx: 292 min (4.9 hrs) | 85 plays
+  • 'Gypsy' by Fleetwood Mac: 291 min (4.8 hrs) | 96 plays
+  • 'Current Affairs' by Lorde: 272 min (4.5 hrs) | 94 plays
+  • 'Don't Swallow the Cap - Live in Rome' by The National: 264 min (4.4 hrs) | 79 plays
+  • 'Shapeshifter' by Lorde: 261 min (4.4 hrs) | 77 plays
+
+Top 10 Albums (by Minutes Listened):
+  • 'Virgin' by Lorde: 2,207 min (36.8 hrs) | 890 plays
+  • 'So Close To What' by Tate McRae: 1,316 min (21.9 hrs) | 662 plays
+  • 'Funeral' by Arcade Fire: 1,302 min (21.7 hrs) | 380 plays
+  • 'Rome' by The National: 1,160 min (19.3 hrs) | 398 plays
+  • 'A Moon Shaped Pool' by Radiohead: 1,124 min (18.7 hrs) | 370 plays
+  • 'Melodrama' by Lorde: 777 min (12.9 hrs) | 299 plays
+  • 'The Suburbs (Deluxe)' by Arcade Fire: 763 min (12.7 hrs) | 259 plays
+  • 'Sound of Silver' by LCD Soundsystem: 724 min (12.1 hrs) | 172 plays
+  • 'Imaginal Disk' by Magdalena Bay: 690 min (11.5 hrs) | 290 plays
+  • 'Reflektor (Deluxe)' by Arcade Fire: 653 min (10.9 hrs) | 167 plays
+
+
+============================================================
+Yearly Listening Summary: 2024
+Total songs played: 22,428
+Total listening time: 44,876 minutes (748 hours)
+
+Top 10 Artists (by Minutes Listened):
+  • David Bowie: 3,995 min (66.6 hrs) | 1,668 plays
+  • Taylor Swift: 1,721 min (28.7 hrs) | 834 plays
+  • Sufjan Stevens: 1,504 min (25.1 hrs) | 614 plays
+  • Lorde: 1,375 min (22.9 hrs) | 522 plays
+  • Bon Iver: 1,103 min (18.4 hrs) | 427 plays
+  • Chappell Roan: 1,045 min (17.4 hrs) | 546 plays
+  • Arcade Fire: 952 min (15.9 hrs) | 408 plays
+  • Beyoncé: 929 min (15.5 hrs) | 524 plays
+  • Radiohead: 908 min (15.1 hrs) | 377 plays
+  • Big Thief: 905 min (15.1 hrs) | 305 plays
+
+Top 10 Songs (by Minutes Listened):
+  • 'Diamond Dogs - 2016 Remaster' by David Bowie: 624 min (10.4 hrs) | 147 plays
+  • 'Five Years - 2012 Remaster' by David Bowie: 517 min (8.6 hrs) | 112 plays
+  • 'Rebel Rebel - 2016 Remaster' by David Bowie: 417 min (7.0 hrs) | 148 plays
+  • 'Sailor Song' by Gigi Perez: 397 min (6.6 hrs) | 144 plays
+  • 'Champagne Coast' by Blood Orange: 317 min (5.3 hrs) | 113 plays
+  • 'Fool's Gold' by Briston Maroney: 262 min (4.4 hrs) | 53 plays
+  • 'Lump Sum' by Bon Iver: 249 min (4.2 hrs) | 75 plays
+  • 'Waiting Room' by Phoebe Bridgers: 220 min (3.7 hrs) | 59 plays
+  • 'Heroes - 2017 Remaster' by David Bowie: 214 min (3.6 hrs) | 65 plays
+  • 'Maneater' by Nelly Furtado: 213 min (3.5 hrs) | 95 plays
+
+Top 10 Albums (by Minutes Listened):
+  • 'Diamond Dogs' by David Bowie: 1,637 min (27.3 hrs) | 620 plays
+  • 'The Rise and Fall of Ziggy Stardust and the Spiders from Mars' by David Bowie: 1,609 min (26.8 hrs) | 652 plays
+  • 'THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY' by Taylor Swift: 1,330 min (22.2 hrs) | 592 plays
+  • 'The Rise and Fall of a Midwest Princess' by Chappell Roan: 988 min (16.5 hrs) | 518 plays
+  • 'Carrie & Lowell' by Sufjan Stevens: 988 min (16.5 hrs) | 374 plays
+  • 'Sound & Color' by Alabama Shakes: 854 min (14.2 hrs) | 343 plays
+  • 'Dragon New Warm Mountain I Believe In You' by Big Thief: 852 min (14.2 hrs) | 259 plays
+  • 'For Emma, Forever Ago' by Bon Iver: 757 min (12.6 hrs) | 278 plays
+  • 'Solar Power' by Lorde: 685 min (11.4 hrs) | 218 plays
+  • 'Paranoid Cocoon' by Cotton Jones: 561 min (9.4 hrs) | 175 plays
+
+
+============================================================
+Yearly Listening Summary: 2023
+Total songs played: 19,231
+Total listening time: 34,649 minutes (577 hours)
+
+Top 10 Artists (by Minutes Listened):
+  • Taylor Swift: 4,988 min (83.1 hrs) | 2,809 plays
+  • Phoebe Bridgers: 1,476 min (24.6 hrs) | 572 plays
+  • Lorde: 1,349 min (22.5 hrs) | 653 plays
+  • Adrianne Lenker: 1,321 min (22.0 hrs) | 565 plays
+  • Lana Del Rey: 975 min (16.3 hrs) | 439 plays
+  • Suki Waterhouse: 766 min (12.8 hrs) | 370 plays
+  • Harry Styles: 701 min (11.7 hrs) | 291 plays
+  • Alabama Shakes: 635 min (10.6 hrs) | 244 plays
+  • Emile Mosseri: 559 min (9.3 hrs) | 275 plays
+  • Fiona Apple: 559 min (9.3 hrs) | 227 plays
+
+Top 10 Songs (by Minutes Listened):
+  • 'Waiting Room' by Phoebe Bridgers: 352 min (5.9 hrs) | 91 plays
+  • 'The Gold - Phoebe Bridgers Version' by Manchester Orchestra: 251 min (4.2 hrs) | 122 plays
+  • 'A&W' by Lana Del Rey: 221 min (3.7 hrs) | 53 plays
+  • 'Maroon' by Taylor Swift: 187 min (3.1 hrs) | 97 plays
+  • 'HEATED' by Beyoncé: 143 min (2.4 hrs) | 70 plays
+  • 'Is It Over Now? (Taylor's Version) (From The Vault)' by Taylor Swift: 140 min (2.3 hrs) | 47 plays
+  • 'Maneater' by Nelly Furtado: 134 min (2.2 hrs) | 64 plays
+  • 'Ribs' by Lorde: 133 min (2.2 hrs) | 74 plays
+  • 'Devil I Know' by Suki Waterhouse: 133 min (2.2 hrs) | 64 plays
+  • 'Hot & Heavy' by Lucy Dacus: 124 min (2.1 hrs) | 64 plays
+
+Top 10 Albums (by Minutes Listened):
+  • 'Midnights' by Taylor Swift: 909 min (15.2 hrs) | 547 plays
+  • 'Speak Now (Taylor's Version)' by Taylor Swift: 861 min (14.3 hrs) | 269 plays
+  • '1989 (Taylor's Version)' by Taylor Swift: 646 min (10.8 hrs) | 293 plays
+  • 'Sound & Color' by Alabama Shakes: 635 min (10.6 hrs) | 243 plays
+  • 'Pure Heroine' by Lorde: 586 min (9.8 hrs) | 283 plays
+  • 'Punisher' by Phoebe Bridgers: 584 min (9.7 hrs) | 224 plays
+  • 'I Can't Let Go' by Suki Waterhouse: 558 min (9.3 hrs) | 250 plays
+  • 'Melodrama' by Lorde: 549 min (9.2 hrs) | 250 plays
+  • 'Stranger in the Alps' by Phoebe Bridgers: 529 min (8.8 hrs) | 229 plays
+  • 'The Rise and Fall of a Midwest Princess' by Chappell Roan: 516 min (8.6 hrs) | 209 plays
+
+
+============================================================
+Yearly Listening Summary: 2022
+Total songs played: 22,165
+Total listening time: 49,507 minutes (825 hours)
+
+Top 10 Artists (by Minutes Listened):
+  • Taylor Swift: 6,299 min (105.0 hrs) | 3,000 plays
+  • Arcade Fire: 3,153 min (52.6 hrs) | 970 plays
+  • Lorde: 2,436 min (40.6 hrs) | 1,090 plays
+  • Lana Del Rey: 1,813 min (30.2 hrs) | 873 plays
+  • Phoebe Bridgers: 1,251 min (20.9 hrs) | 515 plays
+  • Sufjan Stevens: 1,141 min (19.0 hrs) | 425 plays
+  • Adrianne Lenker: 1,094 min (18.2 hrs) | 477 plays
+  • Alabama Shakes: 731 min (12.2 hrs) | 290 plays
+  • Sylvan Esso: 636 min (10.6 hrs) | 321 plays
+  • Beach House: 611 min (10.2 hrs) | 192 plays
+
+Top 10 Songs (by Minutes Listened):
+  • 'Porno' by Arcade Fire: 333 min (5.6 hrs) | 98 plays
+  • 'ingydar' by Adrianne Lenker: 301 min (5.0 hrs) | 126 plays
+  • 'I Lost a Friend' by FINNEAS: 260 min (4.3 hrs) | 100 plays
+  • 'Ribs' by Lorde: 260 min (4.3 hrs) | 101 plays
+  • 'Would've, Could've, Should've' by Taylor Swift: 250 min (4.2 hrs) | 79 plays
+  • 'Maroon' by Taylor Swift: 233 min (3.9 hrs) | 86 plays
+  • 'California' by Lorde: 228 min (3.8 hrs) | 105 plays
+  • 'Reflektor' by Arcade Fire: 228 min (3.8 hrs) | 56 plays
+  • 'It's Never Over (Hey Orpheus)' by Arcade Fire: 226 min (3.8 hrs) | 44 plays
+  • 'Awful Sound (Oh Eurydice)' by Arcade Fire: 224 min (3.7 hrs) | 61 plays
+
+Top 10 Albums (by Minutes Listened):
+  • 'Midnights' by Taylor Swift: 2,254 min (37.6 hrs) | 1,084 plays
+  • 'Reflektor (Deluxe)' by Arcade Fire: 1,570 min (26.2 hrs) | 456 plays
+  • 'evermore' by Taylor Swift: 1,329 min (22.2 hrs) | 540 plays
+  • 'Solar Power' by Lorde: 1,323 min (22.1 hrs) | 544 plays
+  • 'songs' by Adrianne Lenker: 1,082 min (18.0 hrs) | 471 plays
+  • 'Carrie & Lowell' by Sufjan Stevens: 974 min (16.2 hrs) | 350 plays
+  • 'Punisher' by Phoebe Bridgers: 900 min (15.0 hrs) | 368 plays
+  • 'Fearless (Taylor's Version)' by Taylor Swift: 850 min (14.2 hrs) | 308 plays
+  • 'Norman Fucking Rockwell!' by Lana Del Rey: 816 min (13.6 hrs) | 322 plays
+  • 'Reflektor' by Arcade Fire: 799 min (13.3 hrs) | 213 plays
+
+
+============================================================
+Yearly Listening Summary: 2021
+Total songs played: 16,473
+Total listening time: 44,727 minutes (745 hours)
+
+Top 10 Artists (by Minutes Listened):
+  • Taylor Swift: 2,311 min (38.5 hrs) | 1,152 plays
+  • Arcade Fire: 1,371 min (22.9 hrs) | 479 plays
+  • Adrianne Lenker: 1,356 min (22.6 hrs) | 543 plays
+  • VÉRITÉ: 929 min (15.5 hrs) | 359 plays
+  • Phoebe Bridgers: 831 min (13.9 hrs) | 311 plays
+  • Billie Eilish: 814 min (13.6 hrs) | 403 plays
+  • Lorde: 803 min (13.4 hrs) | 330 plays
+  • Radiohead: 633 min (10.6 hrs) | 281 plays
+  • Beach House: 630 min (10.5 hrs) | 248 plays
+  • Glass Animals: 600 min (10.0 hrs) | 238 plays
+
+Top 10 Songs (by Minutes Listened):
+  • 'GOLDWING' by Billie Eilish: 360 min (6.0 hrs) | 143 plays
+  • 'ingydar' by Adrianne Lenker: 267 min (4.4 hrs) | 89 plays
+  • 'Nudes' by Claire Laffut: 172 min (2.9 hrs) | 73 plays
+  • 'Oxytocin' by Billie Eilish: 157 min (2.6 hrs) | 46 plays
+  • 'Only' by RY X: 153 min (2.5 hrs) | 47 plays
+  • 'Teenage Dream' by VÉRITÉ: 149 min (2.5 hrs) | 47 plays
+  • 'Séduction' by Joanna: 146 min (2.4 hrs) | 55 plays
+  • 'Paper Planes' by M.I.A.: 145 min (2.4 hrs) | 75 plays
+  • 'Death of Me' by VÉRITÉ: 145 min (2.4 hrs) | 58 plays
+  • 'come' by Adrianne Lenker: 144 min (2.4 hrs) | 39 plays
+
+Top 10 Albums (by Minutes Listened):
+  • 'songs' by Adrianne Lenker: 1,312 min (21.9 hrs) | 520 plays
+  • 'evermore' by Taylor Swift: 785 min (13.1 hrs) | 322 plays
+  • 'Happier Than Ever' by Billie Eilish: 741 min (12.4 hrs) | 336 plays
+  • 'Punisher' by Phoebe Bridgers: 716 min (11.9 hrs) | 274 plays
+  • 'Somewhere in Between' by VÉRITÉ: 565 min (9.4 hrs) | 217 plays
+  • 'In Rainbows' by Radiohead: 547 min (9.1 hrs) | 229 plays
+  • 'Solar Power' by Lorde: 543 min (9.0 hrs) | 217 plays
+  • 'Teen Dream' by Beach House: 470 min (7.8 hrs) | 161 plays
+  • 'Reflektor' by Arcade Fire: 455 min (7.6 hrs) | 147 plays
+  • 'Writing of Blues and Yellows (Deluxe Version)' by Billie Marten: 440 min (7.3 hrs) | 164 plays
+
+
+============================================================
+Yearly Listening Summary: 2020
+Total songs played: 46,292
+Total listening time: 89,335 minutes (1,489 hours)
+
+Top 10 Artists (by Minutes Listened):
+  • Lana Del Rey: 9,307 min (155.1 hrs) | 4,488 plays
+  • Taylor Swift: 6,152 min (102.5 hrs) | 2,981 plays
+  • Lorde: 2,465 min (41.1 hrs) | 1,129 plays
+  • Phoebe Bridgers: 2,263 min (37.7 hrs) | 1,039 plays
+  • Joji: 1,773 min (29.6 hrs) | 917 plays
+  • VÉRITÉ: 1,572 min (26.2 hrs) | 824 plays
+  • Sufjan Stevens: 1,272 min (21.2 hrs) | 613 plays
+  • girl in red: 1,184 min (19.7 hrs) | 558 plays
+  • FKA twigs: 1,153 min (19.2 hrs) | 464 plays
+  • Dua Lipa: 1,134 min (18.9 hrs) | 611 plays
+
+Top 10 Songs (by Minutes Listened):
+  • 'Lover's Letdown' by Goldmyth: 564 min (9.4 hrs) | 236 plays
+  • 'Art Deco' by Lana Del Rey: 543 min (9.0 hrs) | 184 plays
+  • 'Florida Kilos' by Lana Del Rey: 420 min (7.0 hrs) | 175 plays
+  • 'cardigan' by Taylor Swift: 418 min (7.0 hrs) | 180 plays
+  • 'Summer Bummer - Snakehips Remix' by Lana Del Rey: 361 min (6.0 hrs) | 139 plays
+  • 'Cinnamon Girl' by Lana Del Rey: 361 min (6.0 hrs) | 133 plays
+  • 'Break My Heart' by Dua Lipa: 358 min (6.0 hrs) | 159 plays
+  • 'John My Beloved' by Sufjan Stevens: 351 min (5.8 hrs) | 84 plays
+  • 'Sweater Weather' by The Neighbourhood: 320 min (5.3 hrs) | 138 plays
+  • 'California' by Lana Del Rey: 319 min (5.3 hrs) | 147 plays
+
+Top 10 Albums (by Minutes Listened):
+  • 'Norman Fucking Rockwell!' by Lana Del Rey: 2,407 min (40.1 hrs) | 1,103 plays
+  • 'folklore' by Taylor Swift: 2,010 min (33.5 hrs) | 1,034 plays
+  • 'Punisher' by Phoebe Bridgers: 1,824 min (30.4 hrs) | 834 plays
+  • 'Born To Die - The Paradise Edition' by Lana Del Rey: 1,764 min (29.4 hrs) | 903 plays
+  • 'evermore' by Taylor Swift: 1,656 min (27.6 hrs) | 600 plays
+  • 'Honeymoon' by Lana Del Rey: 1,567 min (26.1 hrs) | 730 plays
+  • 'Lust For Life' by Lana Del Rey: 1,502 min (25.0 hrs) | 769 plays
+  • 'Ultraviolence' by Lana Del Rey: 1,285 min (21.4 hrs) | 649 plays
+  • 'Nectar' by Joji: 1,275 min (21.2 hrs) | 642 plays
+  • 'Melodrama' by Lorde: 1,188 min (19.8 hrs) | 498 plays
+
+
+============================================================
+Yearly Listening Summary: 2019
+Total songs played: 16,684
+Total listening time: 27,189 minutes (453 hours)
+
+Top 10 Artists (by Minutes Listened):
+  • Lana Del Rey: 3,663 min (61.0 hrs) | 1,526 plays
+  • Billie Eilish: 1,791 min (29.9 hrs) | 951 plays
+  • Taylor Swift: 1,371 min (22.9 hrs) | 827 plays
+  • Lorde: 1,035 min (17.3 hrs) | 501 plays
+  • Bishop Briggs: 992 min (16.5 hrs) | 621 plays
+  • Melanie Martinez: 845 min (14.1 hrs) | 385 plays
+  • Ariana Grande: 708 min (11.8 hrs) | 485 plays
+  • Bea Miller: 476 min (7.9 hrs) | 278 plays
+  • Hayley Kiyoko: 469 min (7.8 hrs) | 253 plays
+  • Salt-N-Pepa: 463 min (7.7 hrs) | 201 plays
+
+Top 10 Songs (by Minutes Listened):
+  • 'Shoop' by Salt-N-Pepa: 407 min (6.8 hrs) | 160 plays
+  • 'Sober' by Lorde: 223 min (3.7 hrs) | 109 plays
+  • 'wish you were gay' by Billie Eilish: 205 min (3.4 hrs) | 91 plays
+  • 'Cinnamon Girl' by Lana Del Rey: 187 min (3.1 hrs) | 71 plays
+  • 'bury a friend' by Billie Eilish: 182 min (3.0 hrs) | 94 plays
+  • 'Make Me Feel' by Janelle Monáe: 175 min (2.9 hrs) | 83 plays
+  • 'California' by Lana Del Rey: 175 min (2.9 hrs) | 64 plays
+  • 'River' by Bishop Briggs: 166 min (2.8 hrs) | 86 plays
+  • 'bad guy' by Billie Eilish: 164 min (2.7 hrs) | 68 plays
+  • 'ilomilo' by Billie Eilish: 139 min (2.3 hrs) | 77 plays
+
+Top 10 Albums (by Minutes Listened):
+  • 'Norman Fucking Rockwell!' by Lana Del Rey: 1,391 min (23.2 hrs) | 553 plays
+  • 'WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?' by Billie Eilish: 1,026 min (17.1 hrs) | 580 plays
+  • 'reputation' by Taylor Swift: 831 min (13.9 hrs) | 414 plays
+  • 'Born To Die - The Paradise Edition' by Lana Del Rey: 749 min (12.5 hrs) | 331 plays
+  • 'Lust For Life' by Lana Del Rey: 732 min (12.2 hrs) | 278 plays
+  • 'Melodrama' by Lorde: 713 min (11.9 hrs) | 340 plays
+  • 'K-12' by Melanie Martinez: 558 min (9.3 hrs) | 232 plays
+  • 'Spider-Man: Into the Spider-Verse' by Blackway: 523 min (8.7 hrs) | 294 plays
+  • 'Very Necessary' by Salt-N-Pepa: 461 min (7.7 hrs) | 198 plays
+  • 'Honeymoon' by Lana Del Rey: 428 min (7.1 hrs) | 174 plays
