@@ -1,7 +1,9 @@
 """Regenerate the text summary and every chart.
 
 Usage:
-    python scripts/run_all.py [--refresh] [--sample] [--years 2023 2024]
+    python scripts/run_all.py [--refresh] [--years 2023 2024]
+
+Uses raw JSON in data/raw/ if present, otherwise data/clean/listening_history.parquet.
 """
 
 import argparse
@@ -24,10 +26,9 @@ BAR_NOTE = (
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument(
-        "--refresh", action="store_true", help="re-parse raw JSON even if the cache is current"
-    )
-    parser.add_argument(
-        "--sample", action="store_true", help="use the fake sample data in data/sample/"
+        "--refresh",
+        action="store_true",
+        help="re-parse raw JSON in data/raw/ and rebuild the sanitized history",
     )
     parser.add_argument(
         "--years",
@@ -129,7 +130,7 @@ def main() -> None:
     args = parse_args()
     style.apply_style()
 
-    history = load.load_history(refresh=args.refresh, sample=args.sample)
+    history = load.load_history(refresh=args.refresh)
     music = load.music_only(history)
     all_years = sorted(int(y) for y in music["year"].unique())
 

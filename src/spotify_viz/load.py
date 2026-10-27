@@ -53,32 +53,40 @@ def _manifest(files: list[Path]) -> dict:
     }
 
 
-def load_clean(source_dir: Path, cache_name: str, refresh: bool = False) -> pd.DataFrame:
-    """Return cleaned history from `source_dir`, using the Parquet cache when valid.
+def write_clean_export(df: pd.DataFrame, path: Path = config.CLEAN_FILE) -> Path:
+    """Write the sanitized, committable history: only `config.CLEAN_COLUMNS`."""
+    export = df.assign(minutes_played=df["ms_played"] / 60_000)[config.CLEAN_COLUMNS]
+    path.parent.mkdir(parents=True, exist_ok=True)
+    export.to_parquet(path, index=False)
+    print(f"Wrote sanitized history to {path.relative_to(config.PROJECT_ROOT)}")
+    return path
+
+
+def load_from_raw(files: list[Path], refresh: bool = False) -> pd.DataFrame:
+    """Return cleaned history from raw JSON, using the Parquet cache when valid.
 
     The cache is rebuilt when file names or modification times change, or
-    when `refresh` is True. Cached timestamps are UTC.
+    when `refresh` is True. Rebuilding also rewrites the sanitized export.
+    Cached timestamps are UTC.
     """
-    files = find_raw_files(source_dir)
-    if not files:
-        raise FileNotFoundError(
-            f"No files matching {config.RAW_FILE_GLOB} in {source_dir}"
-        )
-
     config.PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
-    cache_path = config.PROCESSED_DIR / f"{cache_name}.parquet"
-    manifest_path = config.PROCESSED_DIR / f"{cache_name}.manifest.json"
+    cache_path = config.PROCESSED_DIR / "streaming_history.parquet"
+    manifest_path = config.PROCESSED_DIR / "streaming_history.manifest.json"
     manifest = _manifest(files)
 
     if not refresh and cache_path.exists() and manifest_path.exists():
         if json.loads(manifest_path.read_text()) == manifest:
             print(f"Loaded cached data from {cache_path.name}")
-            return pd.read_parquet(cache_path)
+            df = pd.read_parquet(cache_path)
+            if not config.CLEAN_FILE.exists():
+                write_clean_export(df)
+            return df
 
-    print(f"Parsing {len(files)} raw file(s) from {source_dir}")
+    print(f"Parsing {len(files)} raw file(s) from {config.RAW_DIR}")
     df = clean(read_raw(files))
     df.to_parquet(cache_path, index=False)
     manifest_path.write_text(json.dumps(manifest, indent=2))
+    write_clean_export(df)
     return df
 
 
@@ -114,14 +122,23 @@ def music_only(df: pd.DataFrame) -> pd.DataFrame:
     return df[df["is_music"]].copy()
 
 
-def load_history(refresh: bool = False, sample: bool = False) -> pd.DataFrame:
+def load_history(refresh: bool = False) -> pd.DataFrame:
     """Load cleaned history with local-time and play columns added.
 
-    Includes all content types; use `music_only` for music analyses.
+    Uses raw JSON in data/raw/ when present, otherwise the committed
+    sanitized history. Includes all content types; use `music_only` for
+    music analyses.
     """
-    if sample:
-        df = load_clean(config.SAMPLE_DIR, "sample", refresh=refresh)
+    files = find_raw_files(config.RAW_DIR)
+    if files:
+        df = load_from_raw(files, refresh=refresh)
+    elif refresh:
+        raise FileNotFoundError(
+            f"--refresh rebuilds from raw JSON, but no files matching "
+            f"{config.RAW_FILE_GLOB} are in {config.RAW_DIR}"
+        )
     else:
-        df = load_clean(config.RAW_DIR, "streaming_history", refresh=refresh)
+        print(f"No raw files; using {config.CLEAN_FILE.relative_to(config.PROJECT_ROOT)}")
+        df = pd.read_parquet(config.CLEAN_FILE)
     print(f"Loaded {len(df):,} rows")
     return add_play_columns(add_time_columns(df))
