@@ -4,9 +4,6 @@ data/raw/*
 data/processed/*
 !data/processed/.gitkeep
 
-# Generated outputs
-outputs/
-
 # Font files are downloaded locally (see README)
 fonts/*
 !fonts/.gitkeep
